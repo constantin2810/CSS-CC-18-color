@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Merienda+One|Open+Sans&display=swap');
+
+body {
+	font-family: 'Open Sans', Arial, sans-serif;
+}
+
+h1,h2,h3 {
+	font-family: 'Merienda One', 'Brush Script MT', cursive;
+}
+
+h1 {
+	color:beige;
+	font-size: 3rem;
+
+}
+
+header > p {
+	color: white;
+}
+
+header {
+	background-color: black;
+}
+
+.page-header {
+    height: 50vh;	
+}
+
+.bold {
+	font-weight: bold;
+}
+
+#coffee-box {
+	background-color: brown;
+}
+
+#tea-box {
+	background-color: #6f4e37;
+}
+
+#cold-drinks-box {
+	background-color: chocolate;
+}
+
+.drinks-box {
+	width: 33%;
+}
+
+a:hover {
+	text-decoration: none;
+	color: chocolate;
+}
+
+footer {
+	background-color: #6f4e37;
+	padding: 1em;
+	text-align: center;
+}
+
+footer > span {
+	color: silver;
+}
+
+footer > a {
+	color: beige;
+	text-decoration: none;
+	padding: 0 15px;
+}
+
+footer > p {
+	color: silver;
+}
+
+input[type=submit] {
+	margin-left: 0.75rem;
+	padding: 0.75rem;
+	background-color: #5e361b;
+	color: white;
+	border: none;
+	border-radius: 5px;
+}
+
+form {
+	width: 700px;
+}
+text-white {
+  color:#ffffff;
+}
+nav>a {
+color:beige;
+}
+nav>a:hover {
+  color:silver;
+}
+
